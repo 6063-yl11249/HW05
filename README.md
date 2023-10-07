@@ -1,11 +1,24 @@
+**1. What dataset did you use?**  
 
-Link:  
-[linked text](https://www.example.com)
+Beijing Air Quality  
 
+**2. Why did you choose this dataset?**  
 
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+As a designer focus on sustainability, I’d like to create a data visualization related to environmental concerns to promotes awareness about ecological issues.  
 
+**3. Which fields/features/parameters of the dataset did you use?**  
 
-Image on repo:  
-![image description](./file-name.jpg)
+Year, Month, PM2.5  
+
+**4. How many data points did you use?**  
+
+All  
+
+**5. What are you visualizing? How do the shapes, colors or movement relate to the data values?**  
+
+Season trends: Investigate the dataset for seasonal trends by aggregating data over months in 5 years and visualizing how PM2.5 levels change throughout the year.  
+
+The circle size represents the PM2.5 concentration, with color transitioning from blue to yellow, orange, and finally deep pink as the concentration increases to its highest level.  
+
+Thinking Process:  
+![Process](./Process.jpg)
